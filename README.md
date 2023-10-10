@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-## こんにちは
+### こんにちは
 
-# Actively acquiring new hobbies 📖
-# But looking for making some hobbies my profession 🗿
+### Actively acquiring new hobbies 📖
+### But looking for making some hobbies my profession 🗿
 
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
