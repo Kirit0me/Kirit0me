@@ -12,6 +12,5 @@
 - 💬 Ask me about my favourite fictions
 - 🛰 Tell me about new productive things to do
 - 📫 How to reach me: On discord
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am antiphotosynthetic. 
 
