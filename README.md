@@ -8,20 +8,32 @@ I love to build secure, scalable applications and am currently diving deep into 
 ### What I'm Up To
 
 - Helping out at **NovelPedia** on their website at [NovelPedia](https://www.novelpedia.net/)
-- Desperately looking for a job, while acquiring new definetely **productive** hobbies.
+- Desperately looking for a job, while acquiring new definitely **productive** hobbies.
 
 ---
 
-### 🛠️ My Toolbox
+### Definitely Proficient in:
 
-**Languages:**
-`C` | `C++` | `Rust` | `Python` | `JavaScript` | `HTML/CSS` | `SQL` | `Haskell`
+#### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,python,js" />
+  </a>
+</p>
 
-**Frameworks & Libraries:**
-`React` | `Next.js` | `React Native` | `Node.js` | `Vite` | `Tailwind CSS`
+#### Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vite,tailwind,aws" />
+  </a>
+</p>
 
-**Tools & Platforms:**
-`Git` | `GitHub` | `Docker` | `AWS` | `Linux` | `VS Code` | `Neovim`
+#### Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,neovim" />
+  </a>
+</p>
 
 ---
 
