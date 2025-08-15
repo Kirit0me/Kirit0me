@@ -1,7 +1,8 @@
 ### Hi there! 👋 
 
-I'm Kiri, a passionate cybersecurity enthusiast and full-stack developer based in Bengaluru, India. 
+I'm Kiri, a passionate cybersecurity and low-level programming enthusiast and full-stack developer based in Bengaluru, India. 
 I love to build secure, scalable applications and am currently diving deep into **Machine Learning** and **Large Language Models (LLMs)**.
+STM Board supremacy and I know what monads can do.
 
 ---
 
