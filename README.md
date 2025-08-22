@@ -1,7 +1,9 @@
-### Hi there! 👋 
+### Yahallo!  
 
-I'm Kiri, a passionate cybersecurity and low-level programming enthusiast and full-stack developer based in Bengaluru, India. 
-I love to build secure, scalable applications and am currently diving deep into **Machine Learning** and **Large Language Models (LLMs)**.
+I'm Kiri, a cybersec and low level programming enthusiast based in BLR, IND. 
+
+I love to build secure, scalable applications and am currently diving deep into **ML and LLMs**.
+
 STM Board supremacy and I know what monads can do.
 
 ---
@@ -32,7 +34,7 @@ STM Board supremacy and I know what monads can do.
 #### Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,neovim" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,neovim,arch" />
   </a>
 </p>
 
