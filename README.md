@@ -1,21 +1,41 @@
-### Yahallo!  
+### Yahallo! I'm Kiri. 👋
 
-I'm Kiri, a cybersec and low level programming enthusiast based in BLR, IND. 
+<p>
+  A cybersecurity and low-level programming enthusiast from Bengaluru, India. I enjoy building secure, scalable applications and am currently diving deep into **ML and LLMs**.
+</p>
 
-I love to build secure, scalable applications and am currently diving deep into **ML and LLMs**.
-
-STM Board supremacy and I know what monads can do.
-
----
-
-### What I'm Up To
-
-- Helping out at **NovelPedia** on their website at [NovelPedia](https://www.novelpedia.net/)
-- Desperately looking for a job, while acquiring new definitely **productive** hobbies.
+<p>
+  <em>STM Board supremacy! And yes, I know what a monad can do.</em>
+</p>
 
 ---
 
-### Definitely Proficient in:
+### 📊 My GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&line_height=27&count_private=true&theme=tokyonight&hide_border=true" alt="Kiri's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Kiri's Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img title="🔥 Get streak stats for your profile" alt="Kiri's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27" />
+  </a>
+</p>
+
+---
+
+### 🛠️ My Tech Stack
 
 #### Languages
 <p align="left">
@@ -40,15 +60,20 @@ STM Board supremacy and I know what monads can do.
 
 ---
 
-### Reach out to me:
+### 🚀 What I'm Currently Up To
 
-- **Discord:** at `kirit0me`
+- Helping out at **NovelPedia** on their website at [NovelPedia](https://www.novelpedia.net/).
+- Actively looking for new opportunities while acquiring new definitely **productive** hobbies.
 
 ---
 
-### About watashi:
+### 📫 How to Reach Me
 
-- 💬 Ask me about my favourite fictions.
-- 🛰 Tell me about new productive things to do. 
-- ⚡ Fun fact: I am antiphotosynthetic. 
+- **Discord:** `kirit0me`
 
+---
+
+### ✨ About Me
+
+- I love books, cinema and some good anime.
+- I listen to all sorts of rock, but currently into Togeari Togenashi.
