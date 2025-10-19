@@ -63,7 +63,7 @@
 ### 🚀 What I'm Currently Up To
 
 - Helping out at **NovelPedia** on their website at [NovelPedia](https://www.novelpedia.net/).
-- Actively looking for new opportunities while acquiring new definitely **productive** hobbies.
+- Actively looking for new people to collaborate with (hopefully paid ones).
 
 ---
 
