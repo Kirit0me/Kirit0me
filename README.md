@@ -16,12 +16,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&line_height=27&count_private=true&theme=tokyonight&hide_border=true" alt="Kiri's GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kirit0me&show_icons=true&line_height=27&count_private=true&theme=tokyonight&hide_border=true" alt="Kiri's GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Kiri's Top Languages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirit0me&layout=compact&theme=tokyonight&hide_border=true" alt="Kiri's Top Languages" />
       </a>
     </td>
   </tr>
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img title="🔥 Get streak stats for your profile" alt="Kiri's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27" />
+    <img title="🔥 Get streak stats for your profile" alt="Kiri's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirit0me&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27" />
   </a>
 </p>
 
